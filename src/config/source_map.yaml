@@ -1,4 +1,4 @@
-- name: openvino_model_server
+- name: openvino_model_server_main
   automerge: 'no'
   src:
     url: https://github.com/opendatahub-io/openvino_model_server.git
@@ -6,3 +6,11 @@
   dest:
     url: https://github.com/openvinotoolkit/model_server.git
     branch: main
+- name: openvino_model_server_release
+  automerge: 'no'
+  src:
+    url: https://github.com/opendatahub-io/openvino_model_server.git
+    branch: 2023.1-release
+  dest:
+    url: https://github.com/openvinotoolkit/model_server.git
+    branch: releases/2023/3
