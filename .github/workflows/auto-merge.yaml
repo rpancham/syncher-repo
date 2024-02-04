@@ -66,3 +66,5 @@ jobs:
           downstream_repo: "${{ matrix.mapping.dest.url }}"
           downstream_branch: "${{ matrix.mapping.dest.branch }}"
           token: ${{ steps.app-token.outputs.token }}
+
+          https://github.com/rpancham/sync-upstream-repo.git
