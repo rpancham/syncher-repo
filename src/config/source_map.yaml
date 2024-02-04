@@ -1,7 +1,7 @@
 - name: openvino_model_server_main
   automerge: 'no'
   src:
-    url:  https://github.com/openvinotoolkit/model_server.git
+    url: https://github.com/openvinotoolkit/model_server.git
     branch: main
   dest:
     url: https://github.com/rpancham/model_server.git
