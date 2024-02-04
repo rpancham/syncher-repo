@@ -7,7 +7,9 @@ on:
         type: choice
         description: select repositories
         options:
-          - openvino_model_server  
+          - openvino_model_server
+          - model_server
+
   schedule:
     - cron: '0 0 * * *'
 
