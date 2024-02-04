@@ -8,7 +8,7 @@
     branch: main
 - name: openvino_model_server_main
   automerge: 'no'
-   src:
+  src:
     url: https://github.com/openvinotoolkit/model_server.git
     branch: releases/2023/3
   dest:
