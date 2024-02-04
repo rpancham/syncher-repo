@@ -1,4 +1,4 @@
-name: Auto-Merge - ODH to RHODS
+name: Auto-Merge - openvinotoolkit to ovms
 
 on:
   workflow_dispatch:
