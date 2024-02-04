@@ -12,5 +12,5 @@
     url: https://github.com/openvinotoolkit/model_server.git
     branch: releases/2023/3
   dest:
-    url: https://github.com/rpancham/syncher-repo.git
+    url: https://github.com/rpancham/model_server.git
     branch: release
