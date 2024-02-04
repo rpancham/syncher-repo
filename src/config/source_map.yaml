@@ -1,5 +1,5 @@
 - name: openvino_model_server_main
-  automerge: 'no'
+  automerge: 'yes'
   src:
     url:  https://github.com/openvinotoolkit/model_server.git
     branch: main
