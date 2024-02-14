@@ -1,5 +1,5 @@
 git:
-- name: kuberay
+- name: openvino_contrib
   automerge: 'yes'
   src:
     url: https://github.com/opendatahub-io/openvino_contrib.git
