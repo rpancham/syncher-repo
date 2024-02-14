@@ -8,7 +8,7 @@ on:
         description: select repositories
         options:
             - all
-            - kuberay
+            - openvino_contrib
 
   #schedule:
   #  - cron: '0 0 * * *'
